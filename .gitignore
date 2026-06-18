@@ -1,0 +1,10 @@
+out/
+data/
+*.class
+
+.idea/
+.vscode/
+*.iml
+
+Thumbs.db
+.DS_Store
